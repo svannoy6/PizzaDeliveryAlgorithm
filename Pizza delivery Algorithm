@@ -1,6 +1,7 @@
 1. Call Domino's
+	a. If they don't answer, go back to 1. Otherwise, continue.
 2. Order pizza
 3. Give credit card info
 4. Wait
 5. Receive pizza
-6. Tip driver
+6. If we did not tip on the phone, then tip driver.
